@@ -1,13 +1,13 @@
 # Kurs 001: Java dla Frontendowców (16h)
 **Cel:** Przeskok koncepcyjny i poznanie ekosystemu Javy dla osób znających JavaScript/TypeScript tzw. "frontendowców".
 
-**Format:** 12 spotkań teoretyczno-praktycznych (warsztaty) + czas (1-2 godziny) na podsumowanie w formie quiz'u, prezentacji projektu lub realizacji dodatkowego tematu.
+**Format:** 12 spotkań teoretyczno-praktycznych (warsztaty) + czas (1-2 godziny) na podsumowanie w formie quizu, prezentacji projektu lub realizacji dodatkowego tematu.
 
 **Wstępne wymagania:** Umiejętność pisania kodu w JavaScript/TypeScript, podstawy Git'a i obsługi terminala (cmd, powershell).
 
 ---
 
-## Moduł I: Podstawy (Spotkania 1–7, 8.5h)
+## Moduł I: Podstawy (~8.5h)
 
 ### Spotkanie 1: Architektura Javy, środowisko uruchomieniowe, narzędzia budujące (90 minut)
 * **Teoria:**
@@ -139,7 +139,7 @@
 
 ---
 
-## Moduł II: Wstęp do Backendu i Spring Boot (ok. 6.5h)
+## Moduł II: Wstęp do Backendu i Spring Boot (~6.5h)
 *Od kodu w konsoli do aplikacji webowej.*
 
 ### Spotkanie 8: Spring Boot Core & Wstrzykiwanie Zależności (DI), (60 minut)
@@ -211,7 +211,7 @@
 
 ---
 
-## Grande Finale (1h)
+## Grande Finale (~1h)
 ### Spotkanie 12: Quiz i Podsumowanie (60 minut)
 * **Forma:** Interaktywny quiz ze składni, OOP i Springa + omówienie pułapek dla frontendowców wchodzących w świat Javy.
 

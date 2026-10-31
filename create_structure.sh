@@ -42,4 +42,4 @@ EOF
     echo "Utworzono: $session_dir"
 done
 
-echo "Struktura 15 spotkań oraz folder 'scenarios' zostały pomyślnie utworzone!"
+echo "Struktura pomyślnie utworzona!"
